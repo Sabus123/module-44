@@ -1,0 +1,55 @@
+
+     [
+        {
+            "id": 1,
+            "name": "Starter",
+            "price": 29.99,
+            "duration": "per month",
+            "information": "Ideal for beginners who are just starting their fitness journey.",
+            "features": [
+                "Access to gym equipment",
+                "Locker room access",
+                "1 fitness consultation",
+                "Access during off-peak hours",
+                "Free Wi-Fi",
+                "Mobile app access",
+                "1 guest pass per month"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Pro",
+            "price": 49.99,
+            "populer": true,
+            "duration": "per month",
+            "information": "Perfect for regular gym-goers who want a bit more.",
+            "features": [
+                "All Starter features",
+                "Access during peak and off-peak hours",
+                "Group fitness classes (e.g. Yoga, HIIT, Zumba)",
+                "2 personal training sessions/month",
+                "Access to sauna & steam room",
+                "Body composition analysis every 3 months",
+                "5 guest passes per month",
+                "Free gym merchandise (t-shirt or bottle)"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Elite",
+            "price": 79.99,
+            "duration": "per month",
+            "information": "Full package for dedicated fitness enthusiasts.",
+            "features": [
+                "All Pro features",
+                "Unlimited personal training sessions",
+                "Priority booking for classes and trainers",
+                "Monthly progress reports and goal setting",
+                "Nutrition guidance and meal plans",
+                "Private locker with towel service",
+                "Access to members-only workshops & events",
+                "Unlimited guest passes",
+                "Dedicated fitness concierge"
+            ]
+        }
+    ]
